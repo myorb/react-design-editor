@@ -1,0 +1,51 @@
+{
+  "name": "react-editor",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@layerhub-io/react": "^0.2.6",
+    "@layerhub-io/react-custom-scrollbar": "^0.0.1",
+    "@layerhub-io/use-timer": "^0.1.1",
+    "@reduxjs/toolkit": "^2.6.1",
+    "@types/node": "^17.0.45",
+    "are-passive-events-supported": "^1.1.1",
+    "axios": "^0.27.2",
+    "baseui": "0.0.0-next-2113e1821",
+    "i18next": "^21.10.0",
+    "install": "^0.13.0",
+    "lodash": "^4.17.21",
+    "mime": "^3.0.0",
+    "nanoid": "^3.3.11",
+    "pixi.js": "^6.5.10",
+    "react": "^19.1.0",
+    "react-colorful": "^5.6.1",
+    "react-dom": "^19.1.0",
+    "react-i18next": "^11.18.6",
+    "react-player": "^2.16.0",
+    "react-redux": "^9.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.30.0",
+    "resize-observer-polyfill": "^1.5.1",
+    "styletron-engine-atomic": "^1.6.2",
+    "styletron-engine-monolithic": "^1.0.0",
+    "styletron-react": "^6.1.1",
+    "use-latest": "^1.3.0"
+  },
+  "devDependencies": {
+    "@layerhub-io/types": "^0.2.1",
+    "@types/lodash": "^4.17.16",
+    "@types/mime": "^2.0.3",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^2.2.0",
+    "eslint-plugin-baseui": "^13.0.0",
+    "typescript": "^4.9.5",
+    "vite": "^3.2.11",
+    "vite-tsconfig-paths": "^3.6.0"
+  }
+}
